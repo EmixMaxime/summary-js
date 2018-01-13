@@ -2,7 +2,7 @@
 
   // CommonJS supports
    if (typeof exports === 'object') {
-    module.exports = factory
+    module.exports = factory(root)
   // Put the function into global scope (window)
   } else {
     root.summary = factory(root)
