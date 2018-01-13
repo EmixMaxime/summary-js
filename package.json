@@ -1,6 +1,6 @@
 {
   "name": "summary-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The aims of this little script is to create a summary navigation based on titles of a given container.",
   "main": "src/summary.js",
   "scripts": {
